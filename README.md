@@ -9,7 +9,9 @@ intre imaginile cu persoana si hainele.
 
 
 <p float="left">
+ ## Login
  <img src="https://user-images.githubusercontent.com/63847951/173662827-98fb626b-6e6a-41ba-a935-3c2512caa6df.png" width="500" height="350" />
+ ## Register
 <img src="https://user-images.githubusercontent.com/63847951/173662857-c8a11338-6893-4606-8e6c-848e1024e920.png" width="500" height="350" />
 <img src="https://user-images.githubusercontent.com/63847951/173662960-da17863d-bfa4-49aa-925f-b68e444a98fc.png" width="500" height="350" />
  

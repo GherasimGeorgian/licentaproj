@@ -1,14 +1,12 @@
 # AI Suport pentru design vestimentar
 
-## Formularea problemei
+## Definirea problemei
+Proba virtuala bazata pe imagini urmareste sa incadreze o imbracaminte dintr-un
+magazin intr-o imagine a unei persoane imbracate. Pentru a realiza acest lucru, un
+pas cheie este deformarea imbracamintei care alineaza spatial imbracamintea tinta
+cu partile corespunzatoare ale corpului din imaginea persoanei. Metodele anterioare folosite de alte persoane adopta de obicei un model local de estimare al fluxului de aspect. Pot exista probleme la pozitii dificile ale corpului si dezechilibre mari
+intre imaginile cu persoana si hainele.
 
-AI Suport pentru design vestimentar este o aplicat,ie web care poate fi utilizata cu scopul de a proba produse vestimentare c ˘ at mai sigur s ˆ , i mai rapid posibil.
-Aplicat,ia are ca scop probarea ˆımbrac˘ amintei ˘ ˆın format digital si alegerea acesteia ˆın
-funct,ie de stil/preferint,e fara a necesita deplasarea inutil ˘ a la magazin c ˘ at reducerea ˆ
-cumpar˘ arii unei cantit ˘ at˘ ,i nenecesare de haine. Utilizatorul poate selecta de pe site
-ˆımbrac˘ amintea dorit ˘ a apoi ˘ ˆıncarca o imagine cu acesta, urm ˘ and apoi procesarea de ˆ
-catre server a celor dou ˘ a imagini s ˘ , i rezultatul aferent cu cea mai buna portivire a ˘
-ˆımbrac˘ amintei pe corpul persoanei selectate. 
 
 <p float="left">
  <img src="https://user-images.githubusercontent.com/63847951/173662827-98fb626b-6e6a-41ba-a935-3c2512caa6df.png" width="200" height="400" />

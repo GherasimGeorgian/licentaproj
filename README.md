@@ -1,6 +1,4 @@
-# licentaproj
-
-AI Suport pentru design vestimentar
+# AI Suport pentru design vestimentar
 
 ![image](https://user-images.githubusercontent.com/63847951/173662827-98fb626b-6e6a-41ba-a935-3c2512caa6df.png)
 

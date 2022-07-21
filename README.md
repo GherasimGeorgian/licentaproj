@@ -15,7 +15,7 @@ intre imaginile cu persoana si hainele.
  
  <img src="https://user-images.githubusercontent.com/63847951/173663001-2b29258c-c764-487d-941a-dce59b1d1eda.png" width="500" height="350" />
   <img src="https://user-images.githubusercontent.com/63847951/173663041-4466699d-5fff-4778-8a01-12886eb049d6.png" width="500" height="350" />
- <img src="https://user-images.githubusercontent.com/63847951/173663066-f5118d58-0fde-4764-b87e-0af7d6319800.png" width="700" height="350" />
+ <img src="https://user-images.githubusercontent.com/63847951/173663066-f5118d58-0fde-4764-b87e-0af7d6319800.png" width="1000" height="350" />
  <img src="https://user-images.githubusercontent.com/63847951/173663093-8ba8401d-f2c3-400a-86de-334ad88b095b.png" width="500" height="350" />
 </p>
 
